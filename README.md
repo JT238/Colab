@@ -1,3 +1,2 @@
 # Colab
-## これは設定やり直し
-整理した
+## Colaboratory メイン
